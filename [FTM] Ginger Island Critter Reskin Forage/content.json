@@ -54,9 +54,9 @@
           "WeatherTomorrow": [],
           "CPConditions": {},
           "EPUPreconditions": [],
-          "LimitedNumberOfSpawns": null
+          "LimitedNumberOfSpawns": 6
         },
-        "DaysUntilSpawnsExpire": null
+        "DaysUntilSpawnsExpire": 3
       },
       {
         "SpringItemIndex": [
@@ -107,9 +107,9 @@
           "WeatherTomorrow": [],
           "CPConditions": {},
           "EPUPreconditions": [],
-          "LimitedNumberOfSpawns": null
+          "LimitedNumberOfSpawns": 6
         },
-        "DaysUntilSpawnsExpire": null
+        "DaysUntilSpawnsExpire": 3
       },
       {
         "SpringItemIndex": [
@@ -146,9 +146,9 @@
           "WeatherTomorrow": [],
           "CPConditions": {},
           "EPUPreconditions": [],
-          "LimitedNumberOfSpawns": null
+          "LimitedNumberOfSpawns": 6
         },
-        "DaysUntilSpawnsExpire": null
+        "DaysUntilSpawnsExpire": 3
       },
       {
         "SpringItemIndex": [
@@ -191,9 +191,9 @@
           "WeatherTomorrow": [],
           "CPConditions": {},
           "EPUPreconditions": [],
-          "LimitedNumberOfSpawns": null
+          "LimitedNumberOfSpawns": 6
         },
-        "DaysUntilSpawnsExpire": null
+        "DaysUntilSpawnsExpire": 3
       },
       {
         "SpringItemIndex": [
@@ -237,9 +237,9 @@
           "WeatherTomorrow": [],
           "CPConditions": {},
           "EPUPreconditions": [],
-          "LimitedNumberOfSpawns": null
+          "LimitedNumberOfSpawns": 6
         },
-        "DaysUntilSpawnsExpire": null
+        "DaysUntilSpawnsExpire": 3
       }
     ],
     "PercentExtraSpawnsPerForagingLevel": 0,
